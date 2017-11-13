@@ -1,0 +1,11 @@
+predict:
+  todo_list:
+    -
+      bird_ID : gy6or6
+      file_format: evtaf
+      data_dirs:
+        - # this is the path to the other unlabeled dataset
+      model_meta_file: # this is the path to one of the model.meta files from the hvc.select output
+      output_dir: . # this will put the output in the same directory as the tutorial
+      predict_proba: True
+      convert: notmat

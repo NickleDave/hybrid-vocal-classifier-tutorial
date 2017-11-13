@@ -14,29 +14,30 @@ these tools before.
 
 ## Outline
 
-* why? the use cases for hybrid-vocal-classifier
-* what? what does the library do
-* how? how to use it with your data
+1. A quick presentation on:
+  * why? the use cases for hybrid-vocal-classifier
+  * what? what does the library do
+2. A tutorial on:
+  * how? how to use it with your data
 
 
 ## Installation
 
-1.  Follow the [installation instructions](http://hybrid-vocal-classifier.readthedocs.io/en/latest/install.html#install) to install hybrid-vocal-classifier on your computer. If they are not clear or you can get them to work,
-don't worry, we'll fix that in the tutorial.
+1.  Follow the [installation instructions](http://hybrid-vocal-classifier.readthedocs.io/en/latest/install.html#install)
+to install hybrid-vocal-classifier on your computer. 
+If they are not clear or you can't get them to work,
+don't worry, we'll fix that at the tutorial.
 
 2. Download this repository:
 
-https://github.com/pydata/parallel-tutorial/archive/master.zip
+https://github.com/NickleDave/hybrid-vocal-classifier-tutorial/archive/master.zip
 
-
-## Data
-
-Download this data we'll use to work with the library:
+3. Download this data we'll use to work with the library:
 
 https://ndownloader.figshare.com/files/9537232
 https://ndownloader.figshare.com/files/9537253
 
 ## Slides
 
-Brief, high level slides exist at
-[http://pydata.github.io/parallel-tutorial/](http://pydata.github.io/parallel-tutorial/).
+Presentation slides at:
+https://speakerdeck.com/nickledave/hybrid-vocal-classifier-tutorial

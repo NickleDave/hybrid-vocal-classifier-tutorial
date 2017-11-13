@@ -1,0 +1,20 @@
+select:
+  
+  num_replicates: 10
+  num_train_samples:
+    start : 50
+    stop : 250
+    step : 50
+  num_test_samples: 500
+
+  models:
+    -
+      model_name:
+      feature_list_indices: [0,1,2,3,4,5,6,7,8]
+      hyperparameters:
+        k : 4
+
+  todo_list:
+    - #1
+      feature_file: # path + filename of the summary file output by hvc.extract
+      output_dir: . # this will put the output in the same directory as the tutorial
