@@ -11,10 +11,10 @@ extract:
       bird_ID : gy6or6
       file_format: evtaf
       feature_group:
-        - # fill this in as 'knn'
+        - knn
       data_dirs:
-        - # this is the path to the training data on your computer
+        - ./032212
 
-      output_dir: . # this will put the output in the same directory as the tutorial
+      output_dir: .
 
       labelset: iabcdefghjk
