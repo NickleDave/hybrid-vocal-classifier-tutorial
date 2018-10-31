@@ -6,3 +6,4 @@ MANIFEST
 *.pyc
 .ipynb_checkpoints
 .idea/
+output/
