@@ -1,4 +1,4 @@
 .PHONY : clean
 
 clean :
-    rm -rf ./output/
+	find ./output -maxdepth 1 -type f ! -name '.gitkeep' -delete
